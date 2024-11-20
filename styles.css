@@ -1,0 +1,36 @@
+body {
+    background-color:rgb(243, 234, 216);
+    
+}
+h1 {
+    font-style: italic;
+    color:green;
+    font-size: 100px;
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h6 {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color:blue;
+    font-family: Helvetica;
+    font-size: 25px;
+
+}
+
+img {
+    border: 5px dotted #d8b09c;
+
+}
+    
+.button1 {
+    background-color: rgb(241, 144, 144);
+    color: white;
+}
+.button1:hover {
+    background-color: rgb(221, 221, 255);
+    color: black;
+}
