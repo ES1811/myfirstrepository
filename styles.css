@@ -1,11 +1,11 @@
-body {
+.BodyCenter {
     background-color:rgb(243, 234, 216);
     
 }
 h1 {
     font-style: italic;
     color:green;
-    font-size: 100px;
+    font-size: 40px;
 }
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
