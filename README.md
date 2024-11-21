@@ -7,11 +7,11 @@ First time doing this hehe
 - Added div
 - woweee
 
-´´´bash
+```bash
 
 testing
 how
 formatting
 works
 
-´´´
+```
