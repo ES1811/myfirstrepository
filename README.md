@@ -8,8 +8,10 @@ First time doing this hehe
 - woweee
 
 ´´´bash
+
 testing
 how
 formatting
 works
+
 ´´´
